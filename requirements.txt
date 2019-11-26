@@ -1,0 +1,2 @@
+paceutils.egg==info
+pandas==0.25.1
